@@ -1,7 +1,7 @@
-Click to watch the video on youtube 
-[![Watch the video](https://user-images.githubusercontent.com/91747232/166930987-f9ffdda8-4674-4196-acf4-de7a833b6aa1.jpg)](https://www.youtube.com/watch?v=YT0f7Trg6Sc)
-
 # BLOG IN MERN STACK
+
+Click to watch the video on youtube 
+[![Watch the video](https://user-images.githubusercontent.com/91747232/169416022-625c7538-4214-4bf7-acf9-4e2258bfc4c6.png)](https://www.youtube.com/watch?v=U_6PMnGA4g0)
 
 ## 🚀 Starting
 
@@ -26,7 +26,7 @@ In this project, a full MERN stack blog, animated, responsive fully functional a
 
 ## 📌 Version
 
-0.1
+1.0
 
 ## ✒️ Author
 
