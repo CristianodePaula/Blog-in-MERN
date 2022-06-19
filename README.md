@@ -26,7 +26,7 @@ In this project, a full MERN stack blog, animated, responsive fully functional a
 
 ## 📌 Version
 
-1.0
+This repository is basically a backup. From version 0.1 onwards there may be commits in order to improve the code.
 
 ## ✒️ Author
 
